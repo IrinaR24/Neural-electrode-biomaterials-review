@@ -1,0 +1,8 @@
+reference,year,strategy,reported_stiffness_effect,reported_glial_response,evidence_type
+Polikov et al.,2005,Foundational review,Mechanical properties identified as a determining factor,Signal loss within weeks or months; microglia and astrocyte activation,Review
+Kozai et al.,2015,Mismatch quantification,Conventional materials 100-200 GPa vs brain tissue 1-10 kPa,Tissue response affects recording sensitivity,Review
+Salatino et al.,2017,Glial response mechanism,Micromotion against a rigid implant,Glial cascade ending in astrocytic scar,Review
+Capadona et al.,2008,Shape-memory / bioinspired polymers,From ~GPa (dry) to up to 1000x softer (hydrated),Expected reduction of chronic friction; extensive in vivo validation pending,Primary study (material development)
+Green and Abidian,2015,Conducting polymers (PEDOT),Much lower than metals; varies by formulation,Improved interface stability reported,Review
+Kozai et al.,2012,Ultrathin thread-like microelectrodes,Material stiffness unchanged; less tissue displaced,Less immediate vascular and neuronal damage after insertion,Primary study (material development)
+Wang et al.,2023,Flexible polymer substrates,Substantial reduction of global stiffness,Less glial scar than silicon electrodes reported,Review
